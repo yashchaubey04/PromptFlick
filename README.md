@@ -98,4 +98,4 @@ VITE_BACKEND_URL=https://promptflick.onrender.com
 
 👨‍💻 Author
 
-Developed by vivek singh ✨
+Developed by Yash Chaubey ✨
